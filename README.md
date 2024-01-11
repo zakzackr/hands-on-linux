@@ -11,7 +11,7 @@
 
 ## 手順1
 Desktopに移動し、本リモートリポジトリをgit cloneする。本リポジトリのフォルダやファイルがhands-on-linuxフォルダとしてクローンされる。
-* 今回の例では、Desktop以下にフォルダを作成していますが、どこでも大丈夫です。
+今回の例では、Desktop以下にフォルダを作成していますが、どこでも大丈夫です。
 ```
 cd Desktop
 git clone https://github.com/zakzackr/hands-on-linux.git
