@@ -2,7 +2,11 @@
 Linuxのしくみをハンズオンで学習する際に、macOS上でubuntuを動かすためのDockerfileを作成しました。
 
 ## 手順1
-ローカルにhands-on-linuxフォルダを作成する。
+ローカルにhands-on-linuxフォルダを作成する。今回の例ではDesktop以下に作成してみます。
+```
+cd Desktop
+mkdir hands-on-linux
+```
 
 ## 手順2
 hands-on-linuxに移動し、本リモートリポジトリをgit cloneする。hands-on-linux以下に本レポジトリのフォルダやファイルがクローンされる。
