@@ -1,8 +1,8 @@
 # hands-on-linux
-「Linuxのしくみ 増強改訂版 〜実験と図解で学OS、仮想マシン、コンテナの基礎知識〜」をハンズオンで学習する際に、Ubuntu20.24でプログラムを実行することが想定されています。Dockerを使用した仮想環境を構築することで、macOS上でUbuntuを動かし、書籍内のコードを実行できるようにするための手順を説明します。
+「Linuxのしくみ 増強改訂版 〜実験と図解で学OS、仮想マシン、コンテナの基礎知識〜」をハンズオンで学習する際に、Ubuntu20.24でプログラムを実行することが想定されています。Dockerを使用した仮想環境を構築することで、macOS上でUbuntuを動かし、書籍内のコードを実行できるようにするための手順を説明します。    
     
-* 書籍のサンプルコード（[linux-in-practice-2nd](https://github.com/satoru-takeuchi/linux-in-practice-2nd.git)）を使用しています。
-
+書籍のサンプルコード（[linux-in-practice-2nd](https://github.com/satoru-takeuchi/linux-in-practice-2nd.git)）を使用しています。
+    
 ## 使用技術
 - Docker
 - Git
