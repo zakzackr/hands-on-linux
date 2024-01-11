@@ -23,7 +23,7 @@ docker image build -t hands-on-linux .
 docker run --rm -it hands-on-linux /bin/bash
 ```
 
-手順2までを実行すると、下記のようにlinux-in-practiceフォルダ内に「Linuxのしくみ」を学習する際に必要なフォルダが表示されます。
+手順2までを実行すると、下記のようにlinux-in-practiceフォルダ内に「Linuxのしくみ」を学習する際に必要なプログラムのフォルダが表示されます。
 ```
 root@8138f14ec0a3:/# cd linux-in-practice 
 root@8138f14ec0a3:/linux-in-practice# ls
