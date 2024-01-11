@@ -44,4 +44,5 @@ root@8138f14ec0a3:/linux-in-practice/01-operating-system-overview# cat hello.log
 write(1, "hello world\n", 12)           = 12
 ...
 ```
+## 結果
 書籍と同じ結果が得られました。
