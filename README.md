@@ -1,5 +1,7 @@
 # hands-on-linux
-「Linuxのしくみ　〜実験と図解で学OS、仮想マシン、コンテナの基礎知識〜」をハンズオンで学習する際に、Ubuntu20.24でプログラムを実行することが想定されています。macOS上でubuntuを動かし、書籍内のコードを実行できるようにするための手順を説明します。
+「Linuxのしくみ　増強改訂版　〜実験と図解で学OS、仮想マシン、コンテナの基礎知識〜」をハンズオンで学習する際に、Ubuntu20.24でプログラムを実行することが想定されています。macOS上でubuntuを動かし、書籍内のコードを実行できるようにするための手順を説明します。
+
+書籍のサンプルコードを使用しています。（[linux-in-practice-2nd]{https://github.com/satoru-takeuchi/linux-in-practice-2nd.git}）
 
 ## 使用技術
 - Docker
