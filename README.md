@@ -24,7 +24,7 @@ docker run --rm -it hands-on-linux /bin/bash
 root@d538a7a89928:/linux-in-practice# ls
 01-operating-system-overview  02-process-management-1  03-process-scheduler  04-memory-management  05-process-management-2  07-filesystem  08-storage-hierarchy  09-block-layer  10-virtualization  12-cgroups  LICENSE  README.md
 ```
-## 試しにp.6のhello.goを実行してみる。
+## 試しにp.6のhello.goを実行してみる
 ```
 cd 01-operating-system-overview
 root@d538a7a89928:/linux-in-practice/01-operating-system-overview# go build hello.go
