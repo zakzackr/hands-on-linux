@@ -16,7 +16,7 @@ git clone https://github.com/zakzackr/hands-on-linux.git
 ```
 
 ## ② 手順2
-hands-on-linuxフォルダに移動します。その後、2行目でDockerfileからhands-on-linuxというdocker imageを作成し、3行目でhands-on-linux(docker image)からコンテナを実行しています。
+hands-on-linuxフォルダに移動します。その後、2行目でDockerfileからhands-on-linuxというdocker imageを作成し、3行目でhands-on-linux(docker image)からコンテナを起動しています。
 ```
 cd hands-on-linux
 docker image build -t hands-on-linux .
